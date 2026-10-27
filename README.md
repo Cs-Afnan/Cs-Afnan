@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Afnan Shariq Khawaja 👋
 
-<!--
-**Cs-Afnan/Cs-Afnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Computer Science student from Pakistan currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- Python
+- GitHub
+- Web Development
+
+My goal is to become a skilled web developer and create professional websites for clients around the world.
+
+## My Projects
+
+### 🌐 Personal Portfolio Website
+https://cs-afnan.github.io/portfolio-website/
+
+### 🍽️ Restaurant Website
+https://cs-afnan.github.io/restaurant-website/
+
+### 🎓 Academy Website
+https://cs-afnan.github.io/academy-website/
+
+## Skills
+
+- HTML
+- CSS
+- Python
+- GitHub
+- Responsive Web Design
+
+## Contact
+
+📧 afnanshariqkhawaja@gmail.com
+
+Thanks for visiting my profile!
